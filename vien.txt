@@ -1,0 +1,452 @@
+6300 : Không hiện Viền
+6500 : Viền đỏ
+6600 : Viền xanh
+6700 : Viền xanh lục
+c900 : Viền năm mới 2018
+ca00 : Viền Lễ tình nhân
+cb00 : Viền Kỷ niệm 1 năm Hàn Quốc
+cc00 : Viền Tết té nước Thái
+cd00 : Viền Tết Eid al-Fitr Indo
+ce00 : Viền Tết thiếu nhi
+cf00 : Viền Lễ phục sinh
+d000 : Viền 1 tuổi
+d100 : Viền Tết đoan ngọ
+d200 : Viền Liên Quân
+d300 : Viền Sổ sứ mệnh
+d400 : Viền Cup thế giới Ai Cập
+d500 : Viền  Cup thế giới Argentina
+d600 : Viền Cup thế giới Australia
+d700 : Viền Cup thế giới Bỉ
+d800 : Viền Cup thế giới Panama
+d900 : Viền Cup thế giới Brasil
+da00 : Viền Cup thế giới Iceland
+db00 : Viền Cup thế giới Ba Lan
+dc00 : Viền Cup thế giới Colombia
+dd00 : Viền Cup thế giới Costa Rica
+de00 : Viền Cup thế giới Đan Mạch
+df00 : Viền Cup thế giới Croatia
+e000 : Viền Cup thế giới Peru
+e100 : Viền Cup thế giới Anh
+e200 : Viền Cup thế giới Pháp
+e300 : Viền Cup thế giới Đức
+e400 : Viền Cup thế giới Maroc
+e500 : Viền Cup thế giới Thụy Điển
+e600 : Viền Cup thế giới Serbia
+e700 : Viền Cup thế giới Sénégal
+e800 : Viền Cup thế giới Arab
+e900 : Viền Cup thế giới Nhật
+ea00 : Viền Cup thế giới Tusinia
+eb00 : Viền Cup thế giới Mexico
+ec00 : Viền Cup thế giới Nigeria
+ed00 : Viền Cup thế giới Bồ Đào Nha
+ee00 : Viền Cup thế giới Nga
+ef00 : Viền Cup thế giới Hàn Quốc
+f000 : Viền Cup thế giới Tây Ban Nha
+f100 : Viền Cup thế giới Thụy Sỹ
+f200 : Viền Cup thế giới Uruguay
+f300 : Viền Cup thế giới Iran
+f400 : Viền Indonesia 66
+f500 : Viền học kỳ mới
+f600 : Viền mùa hè
+f700 : Viền AWC
+f800 : Viền Cup thế giới
+f900 : Viền Indo độc lập
+fa00 : Viền Á vận hội
+fb00 : Viền sinh nhật 2 tuổi
+fc00 : Viền Trung thu
+fd00 : Viền 729
+fe00 : Viền Wiro
+ff00 : Viền huyễn ảnh
+0001 : Viền Halloween
+0101 : Viền Tết té nước Thái
+0201 : Viền Sổ sứ mệnh 2
+0301 : Viền năm mới
+0401 : Viền Tiết đông chí
+0501 : Viền Sổ sứ mệnh 3
+0601 : Viền năm mới
+0701 : Viền Valentine nam
+0801 : Viền Valentine nữ
+0901 : Viền Lễ phục sinh
+0a01 : Viền sổ sứ mệnh 4
+0b01 : Viền sổ sứ mệnh 5
+0c01 : Viền sổ sứ mệnh 6
+0d01 : Viền SSM 9
+0e01 : Viền SSM 10
+0f01 : Viền SSM 7
+1001 : Viền SSM 8
+1101 : Viền lễ hari raya Indonesia
+1201 : Viền lễ Songkran Thái
+1301 : Viền Tết Moba 2019
+1401 : Viền Moba 55 năm 2019- Thái Lan 5v5
+1501 : Viền Vực hỗn mang
+1601 : Viền thánh điển ánh sáng
+1701 : Viền Cự giải
+1801 : Viền Sư tử
+1901 : Viền Xử nữ
+1a01 : Viền tết của mẹ
+1b01 : Viền Athanor
+1c01 : Viền Thiên bình
+1d01 : Viền Xạ thủ
+1e01 : Viền Thiên yết
+1f01 : Viền Rừng nguyên sinh
+2001 : Viền Thành khởi nguyên
+2101 : Viền SSM 11
+2201 : Viền SSM 12
+2301 : Viền Ma kết
+2401 : Viền Thủy bình
+2501 : Viền Song ngư
+2601 : Viền Bạch Dương
+2701 : Viền Kim Ngưu
+2801 : Viền Song Tử
+2901 : Xuân Canh Tý
+2a01 : Viền SSM 14 - 1
+2b01 : Viền SSM 14 - 2
+3408 : Viền SSM 14
+3508 : Viền SSM 15
+3608 : Viền lễ băng tuyết
+3708 : Viền cờ thỏ Annette
+3808 : Viền cờ thỏ Techno
+3908 : Viền cờ thỏ Omen
+3a08 : Lễ té nước 2020
+3b08 : Cá tháng tư 2020
+3c08 : Tp Hồ Chí Minh
+3d08 : Viền SSM 16
+3e08 : Viền SSM 17
+3f08 : Viền SSM 18
+4008 : Bangkok
+4108 : Đài Bắc Trung Hoa
+4208 : Lễ hội Moba
+4308 : Lễ Moba 5V5
+4408 : Chị đại học đường
+4508 : Quay lại học đường
+4608 : Seoul
+4708 : Jakarta
+4808 : Tokyo
+4908 : Viền SSM 19
+4a08 : Viền SSM 20
+4b08 : Viền SSM 21
+4c08 : Đao kiếm thần vực
+4d08 : Đao kiếm thần vực - hoàng kim
+5508 : Viền SSM 22
+5608 : Viền Trăng khuyết
+5008 : Viền Băng tuyết
+5108 : Viền quang ảnh
+5208 : Viền Saint Petersburg
+5308 : Viền New Delhi
+5408 : Viền Cairo
+5708 : Viền khoa tự nhiên
+5808 : Viền khoa vũ đạo
+5908 : Viền khoa điền kinh
+5a08 : Viền khoa kiếm đạo
+5b08 : Xuân Tân Sửu
+5c08 : Violet Huyết ma thần
+5d08 : Viền Xôi xoài
+5e08 : Viền Xiên gà
+5f08 : Viền Món cuộn
+6008 : Viền QTPN 8/3
+6108 : Viền SSM 25
+6208 : Viền SSM 26 - 1
+6308 : Viền SSM 26 - 2
+6408 : Viền SSM 27
+6508 : Viền LQM 1 năm
+6608 : Viền LQM 2 năm
+6708 : Viền LQM 3 năm
+6808 : Viền LQM 4 năm
+6908 : Viền Trung thu
+4e08 : Viền SYSTEM ALERT
+4f08 : Viền kỵ sĩ Alice
+6a08 : Viền năm mới 2020
+6b08 : Viền chị em
+6c08 : Viền anh em
+6d08 : Viền cặp đôi
+6e08 : Viền bạn bè
+7008 : Viền SSM 28
+7108 : Viền SSM 29
+7208 : Viền SSM 30
+7308 : Viền té nước 2021
+7408 : Viền tiến hóa
+7508 : Viền Ngộ Không tiến hóa sơ cấp
+7608 : Viền SSM 31
+7708 : Viền SSM 32
+7808 : Món quà tặng bạn
+7908 : Khởi hành
+7a08 : Vạn chúng xin quỳ
+7b08 : Viền Điêu Thuyền WaVe
+7c08 : Viền Liliana WaVe
+7d08 : Viền Yena WaVe
+7e08 : Viền Sinestrea
+7f08 : Viền WeTV
+8008 : Viền SSM 33
+8108 : Viền SSM 34
+8208 : Viền Siêu việt v2
+8308 : Viền Chiến tướng
+8408 : Viền SSM 35
+8508 : Viền SSM 36
+8608 : Viền SSM 37
+8908 : Viền Mexico
+8a08 : Viền Doner kebab Thổ Nhĩ Kỳ
+8b08 : Viền Russia
+8c08 : Viền Nam Á
+8708 : Viền Saitama
+8808 : Viền Mumen Rider
+8d08 : Viền Valentine
+8e08 : Viền Phi hành gia
+8f08 : Viền năm mới
+9008 : Viền Lữ Bố Thần ngọc
+9108 : Viền cẩu lương
+9308 : Viền V.quốc Rồng
+9408 : Viền SSM đồ bơi
+9708 : Viền Roxie Lễ hội hoa
+9808 : Viền Anubis
+9908 : Viền Siêu hacker
+9a08 : Viền Pet đáng iu
+9b08 : Chủ đề ong mật
+9c08 : Viền Thí nghiệm
+9508 : Viền SSM Tu La
+a008 : Viền Lam Hải
+a108 : Bóng đá
+a408 : Viền Bóng đá 2022
+a208 : Viền thần lực năm mới
+aa08 : Viền Valentine 2023
+a608 : Viền băng tuyết 2022
+a708 : Viền Tu Di giới
+a808 : Viền Tất niên 2022-2023
+a908 : Viền KOL hợp tác
+a508 : Viền băng tuyết VN
+ad08 : Viền độc thân 2023
+ab08 : Viền tình lữ 2023
+ac08 : Viền nữ thần 2023
+ae08 : Viền tổ chức áo đen
+af08 : Viền hồng tình yêu
+b008 : Viền tiên cảnh
+b108 : Hoạt họa SSM T4
+b208 : Viền thần thám
+b308 : Viền phong ấn
+b408 : Viền mái Thái
+b508 : Viền AOV DAY 2023
+b608 : Viền APL
+b708 : Viền Trấn yêu đạo quán
+b808 : Viền lễ ẩm thực
+b908 : Viền học viện thần thoại
+ba08 : Viền tiên hiệp thủy mặc 2023
+bb08 : Viền Quốc khánh 2023
+bc08 : Viền Trung thu
+bd08 : Viền Việt Nam muôn năm
+be08 : Viền học viện phù thủy
+bf08 : Viền Băng lam
+c008 : Viền Tiệc trà mộng ước
+c108 : Viền Cao thủ SS
+c208 : Viền Cao thủ S
+c308 : Viền Cao thủ A+
+c408 : Viền Cao thủ A
+c508 : Viền Cao thủ B
+c608 : Viền KOL 2246
+c708 : Viền Tom Yum Kung
+c808 : Viền AOV 7 năm
+ca08 : Viền SSM Valentine 2023
+2d01 : Viền Siêu việt
+2e01 : Viền Yorn <color:#f6bf17>Thế tử nguyệt tộc</color>
+2f01 : Viền tình nhân vĩnh hằng
+3001 : Viền tình nhân ước hẹn
+3101 : Viền Airi Kiemono
+3201 : Viền Tulen <color:#f6bf17>Tân thần thiên hà</color>
+3301 : Viền Astrid Siêu sao bóng chày
+3401 : Viền Ngộ Không Siêu Việt
+3501 : Viền Alice Bé gấu tuyết
+3601 : Viền Raz Chiến thần Muay Thái
+3701 : Viền Violet Tiệc bãi biển
+3801 : Viền Murad Siêu việt
+3901 : Viền Omen Ám tử đao
+3a01 : Viền Lindis Thánh quang tiễn
+3b01 : Viền Wisp Thỏ siêu quậy
+3c01 : Viền Liliana Trung thu
+3d01 : Lauriel Thánh quang sứ
+3e01 : Viền Elsu
+3f01 : Viền Arum Vũ khúc long hổ
+4001 : Viền Maloch Đại tướng Robot
+4101 : Viền Airi Bạch Kiemono
+4201 : Viền Yorn Long thần soái
+4301 : Viền Elsu Guitar tình ái
+4401 : Viền Violet Nữ Hoàng pháo hoa
+4501 : Viền Violet Pháo hoa Neon tuyệt sắc
+4601 : Viền Thần sứ F.E.E.X1
+4701 : Liliana Tiểu thơ anh đào
+4801 : Viền Tulen Tân thần hoàng kim
+4b01 : Viền Zephys Siêu việt
+4d01 : Viền Ryoma
+4e01 : Viền Quillen Đặc công mãng xà
+4f01 : Viền Violet Vệ thần
+5001 : Viền Ngộ Không Siêu việt 2.0
+5101 : Viền cô dâu
+5201 : Viền Murad Siêu việt 2.0
+5301 : Viền Tulen tiên kiếm
+5401 : Viền Lữ Bố Robot
+5501 : Viền Natalya Nghiệp hỏa
+5601 : Viền Arum thần sứ
+5701 : Viền Raz Siêu việt
+5801 : Viền Lauriel Tuyệt sắc
+5901 : Viền Butterfly Hỏa phượng
+5a01 : Viền Elsu kỵ sĩ
+5b01 : Viền Capheny Kimono
+5c01 : Viền Kỵ sĩ tận thế
+5d01 : Viền Đao phủ tận thế
+5e01 : Tel'annas Thứ nguyên
+5f01 : Hayate Tử thần
+6001 : Murad Thần kiếm
+6101 : Nakroth Thần lôi
+6201 : Hắc kiếm sĩ Kirito
+6301 : Tia chớp Asuna
+6801 : Viền Tulen STL-79
+6901 : Viền Ngộ Không Mỹ hầu vương
+6a01 : Viền Violet ma thần
+6b01 : Viền Laville Tinh vệ
+6c01 : Viền Airi Bích hải
+6401 : Viền Seven
+6501 : Viền Ultraman
+6601 : Viền song kiếm Kirito
+6701 : Viền Stacia
+6d01 : Viền Arthur Siêu việt
+6e01 : Viền Tel'annas Vu nữ
+6f01 : Viền Toshiro Hitsugaya
+7001 : Viền Byakuya Kuchiki
+7101 : Viền Ichigo Kurosaki
+7201 : Viền Natalya Công nghệ
+7301 : Viền Lauriel công nghệ
+7401 : Viền Nakroth Vệ thần
+7501 : Viền Quillen Long đế
+7601 : Viền WaVe Liliana
+7701 : Viền WaVe Sinestrea
+7801 : Viền Kiếm thần Susanoo
+7901 : Viền Điêu Thuyền WaVe
+7a01 : Viền WaVe Yena
+7b01 : Viền Violet đặc biệt
+7c01 : Viền Zephys 380
+7d01 : Viền Hayate 381
+7e01 : Viền Lốc xoáy kinh hoàng
+7f01 : Viền Genos
+8901 : Viền Harley Quinn đ.biệt
+8a01 : Viền Tân niên vệ thần Tulen
+8b01 : Viền Tân niên vệ thần Tel'Annas
+8c01 : Viền Alice Tiểu tiên tử
+8d01 : Viền Lauriel thần tiên
+8e01 : Viền Butterfly biển sâu
+9001 : Viền Điêu Thuyền Thất tịch
+f401 : Viền Helen
+5902 : Viền Valhein Xạ thần
+5a02 : Viền Valhein Kagutsuchi
+5b02 : Viền Lauriel Vệ thần
+5c02 : Viền Grakk Đi vào lòng đất
+5d02 : Viền Xeniel tận thế
+5e02 : Viền Allain Tuyết sơn
+5f02 : Viền Zata tác gia
+6002 : Viền Florentino Bá vương
+6102 : Viền Laville MOBA
+6202 : Viền Raz tiền đạo
+6302 : Viền Helen trà sữa
+6402 : Viền Alice 612
+6502 : Hayate thánh đế hoạt họa
+6602 : Viền Ngộ Không võ thần
+6702 : Viền Yorn Vệ Binh ngân hà
+6802 : Viền Elsu Phi hồ
+6902 : Viền Gildur phù thủy Ba Tư
+6a02 : Viền DJ Câu hồn
+6b02 : Viền Omen Quái Kiệt Guitar
+6c02 : Viền Thiên khuyển
+6d02 : Viền Mina Linh xà
+6e02 : Viền Lauriel Nguyệt thực
+6f02 : Viền Tulen Vũ Thần
+7002 : Viền Ilumia Khải Huyền
+8f01 : Viền Veres Kimono
+7102 : Viền Bijan Vệ Binh
+7202 : Viền Butterfly Luna
+7302 : Viền Quillen giám đốc
+7402 : Viền Zata tà phượng
+7502 : Viền Valhein Đệ nhất thần thám
+7602 : Viền Volkath 630
+7702 : Viền Murad thần binh
+7802 : Viền Airi Vệ thần
+7902 : Viền Veera A.I love you
+7a02 : Viền Yue hỏa diệm
+7b02 : Viền Yena Huyền Cửu Thiên
+7c02 : Viền Lauriel Miêu ảnh
+8202 : Viền Florentino 642
+9101 : Viền GCS
+9201 : Viền chuyên cần máy chủ thử nghiệm
+9301 : Viền Đấu Clan Việt Nam
+9401 : Indonesia ASL
+9501 : Valor cup Sing Mã Phi
+9601 : Viền AIC 2018
+9701 : Viền quán quân AIC 2018
+9801 : Viền đấu thế giới
+9901 : Viền đặc biệt đấu thế giới
+9a01 : Viền Đấu trường danh vọng 2019
+9b01 : Viền Garena World
+9c01 : Viền AWC 2019
+9d01 : Viền đội AWC Trung Hoa Đài Bắc
+9e01 : Viền đội AWC Trung Hoa Đài Bắc (WC)
+9f01 : Viền đội AWC Indonesia
+a001 : Viền đội AWC Hàn Quốc
+a101 : Viền đội AWC Malaysia
+a201 : Viền đội AWC Bắc Mỹ
+a301 : Viền đội AWC Thái Lan
+a401 : Viền đội AWC Việt Nam
+a501 : Viền đội AWC Nhật Bản
+a601 : Viền đội AWC Thái Lan (WC)
+a701 : Viền đội AWC Việt Nam (WC)
+a801 : Viền AWC- Vietnam[WC]
+a901 : AIC2019 hoạt họa
+aa01 : AIC2019-AHQ-Esports
+ab01 : AIC2019-Buriram-United
+ac01 : AIC2019-EVOS-Esports
+ad01 : AIC2019-Hong-Kong-Attitude
+ae01 : AIC2019-IGP-Gaming
+af01 : AIC2019-Liyab-Esports
+b001 : AIC2019-Nova-Logo-Black
+b101 : AIC2019-ONE-Team
+b201 : AIC2019-Team-AK
+b301 : AIC2019-Team-Flash
+b401 : AIC2019-Team-Olympus
+b501 : AIC2019-Unsold-Stuff-Gaming
+b601 : GCS2020-MAD chiến đội
+b701 : GCS2020-MS chiến đội
+b801 : GCS2020-HKA chiến đội
+b901 : APL2020
+ba01 : APL2020-Buriram
+bb01 : APL2020-BZ
+bc01 : APL2020-DG
+bd01 : APL2020-Elvo
+be01 : APL2020-FAP
+bf01 : APL2020-FL
+c001 : APL2020-FW
+c101 : APL2020-HKA
+c201 : APL2020-MAD
+c301 : APL2020-ONE
+c401 : APL2020-Popbacon
+c501 : APL2020-ProjectH
+c601 : APL2020-SGP
+c701 : APL2020-Talon
+c801 : Viền đấu đỉnh cao
+c901 : AIC2020
+ca01 : AIC2020-BOX Gaming
+cb01 : AIC2020-Saigon Phantom
+cc01 : AIC2020-Team Flash
+cd01 : AIC2020-DG Esports
+ce01 : AIC2020-Flash Wolves
+cf01 : AIC2020-Hong Kong Attitude
+d001 : AIC2020-MAD Team
+d101 : AIC2020-Buriram United Esports
+d201 : AIC2020-Pops Bacon Time
+d301 : AIC2020-TALON Esports
+d401 : AIC2020-China_Team ALL combo
+d501 : AIC2020-Korea_Team Timing
+f501 : Viền 2 nhất
+f601 : Viền 3 nhất vinh quang
+f701 : Viền đặc biệt vinh quang
+f801 : Viền Helen
+f901 : Viền 3S thành tựu
+fa01 : Viền 4S thành tựu
+fb01 : Viền 6S thành tựu
+e013 : Test viền 1
+eb13 : Test viền 2
+9213 : Test viền 3
+fc01 : Viền test 4
